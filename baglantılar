@@ -1,0 +1,2 @@
+ultrasonik sensör echopin=12 trigpin=13
+l298n motor sürücü ın1=7 ın2=6 ın3=5 ın4=4 ena=9 enb=3
